@@ -93,8 +93,8 @@ for i in range(5):
 
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
-Developed by: 
-RegisterNumber:  
+Developed by: G. Shawn Ronel
+RegisterNumber: 25005544 
 */
 ```
 
